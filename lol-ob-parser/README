@@ -1,0 +1,3 @@
+This util parses and stores scrapped LoL observer binary data
+Usage: ruby parse.rb <GAME_ID> <KEY> <DATA_SOURCE_DIR>
+Parsed data is stored in ./data/<GAMEID> folder
