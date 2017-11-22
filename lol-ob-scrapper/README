@@ -1,0 +1,4 @@
+This util observes live LoL game and stores fetched game data
+Usage: ruby scrap.rb <GAME_ID> <REGION> <KEY>
+<GAME_ID> <REGION> <KEY> params of live games can be obtained here <URL>
+Data is stored in ./data/<REGION>/<GAMEID> folder
